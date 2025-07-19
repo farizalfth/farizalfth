@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Fariz Alfattah</h1>
+<h1 align="center">Hi, I'm Muhammad Fariz Alfattah</h1>
 <h3 align="center">Informatics Engineering Student | Politeknik Harapan Bersama Tegal</h3>
 
 <p align="center">
@@ -52,9 +52,9 @@
 - 🕒 **Timezone**: UTC +07:00  
 - 🌐 **Portfolio**: [portfolio-fariz.vercel.app](https://portfolio-fariz.vercel.app/)
 - 💬 **WhatsApp**: [Click to Chat](https://wa.me/qr/BOHYG25JPESDH1)
-- 📸 **Instagram**: [@efglendem](https://www.instagram.com/efglendem/?igsh=YmxpNzVlcGh5anJp)
+- 📸 **Instagram**: [@efglendem](https://www.instagram.com/efglendem_/?igsh=YmxpNzVlcGh5anJp)
 - 📘 **Facebook**: [Share Link](https://www.facebook.com/share/1C2qXW3a9K/)
-- 🎵 **TikTok**: [@efglendem](https://www.tiktok.com/@efglendem?_t=ZS-8v2b6TK1UaX&_r=1)
+- 🎵 **TikTok**: [@efglendem](https://www.tiktok.com/@efglendem_?_t=ZS-8v2b6TK1UaX&_r=1)
 
 ---
 
