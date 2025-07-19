@@ -50,30 +50,11 @@
 
 - 📍 **Address**: Jln. Cendana No.23, RT.05/03, Desa Jembayat, Margasari District, Tegal, Central Java  
 - 🕒 **Timezone**: UTC +07:00  
-- 🌐 **Portfolio**: [portfolio-fariz.vercel.app](https://portfolio-fariz.vercel.app/)
-- 💬 **WhatsApp**: [Click to Chat](https://wa.me/qr/BOHYG25JPESDH1)
-- 📸 **Instagram**: [@efglendem](https://www.instagram.com/efglendem_/?igsh=YmxpNzVlcGh5anJp)
-- 📘 **Facebook**: [Share Link](https://www.facebook.com/share/1C2qXW3a9K/)
-- 🎵 **TikTok**: [@efglendem](https://www.tiktok.com/@efglendem_?_t=ZS-8v2b6TK1UaX&_r=1)
-
----
-
-### 🚀 Featured Projects
-
-- 🚚 **Decision Support System for Online Delivery**  
-  → `SPK-SAW | Online Store | Laravel + AI`  
-  → [Spk-EkspedisiTokoOnline](https://github.com/farizalfth/Spk-EkspedisiTokoOnline)
-
-- 🐄 **Qurban Animal Feasibility Detector**  
-  → `CNN Multi-Output + Decision Tree | Flask & Streamlit`
-
-- 🗺️ **Nature Expedition Monitoring App**  
-  → `Java + SQLite | Admin Login | Route Tracking`  
-  → [Pemweb2-ApkMonitoringEkspedisi](https://github.com/farizalfth/Pemweb2-ApkMonitoringEkspedisi)
-
-- 🧩 **Sparepart Management System**  
-  → `Laravel 10 | Multi-User Dashboard | API Integration`  
-  → [Otomotif-Mart](https://github.com/farizalfth/Otomotif-Mart)
+- 🌐 **Portfolio**: [portfolio-fariz.vercel.app](https://portofolio-fariz.vercel.app/)
+- 💬 **WhatsApp**: [Hub Me](https://wa.me/qr/BOHYG25JPESDH1)
+- 📸 **Instagram**: [efglendem_](https://www.instagram.com/efglendem_?igsh=YmxpNzVlcGh5anJp)
+- 📘 **Facebook**: [Ef Glendem](https://www.facebook.com/share/1C2qXW3a9K/)
+- 🎵 **TikTok**: [efglendem_](https://www.tiktok.com/@efglendem_?_t=ZS-8vzX6TkIUaX&_r=1)
 
 ---
 
