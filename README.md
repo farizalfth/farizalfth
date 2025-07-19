@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Fariz Alfattah</h1>
+<h1 align="center">Hi, I'm Muhammad Fariz Alfattah</h1>
 <h3 align="center">Mahasiswa Teknik Informatika Politeknik Harapan Bersama Tegal</h3>
 
 <p align="center">
@@ -12,9 +12,9 @@
 - 🌐 Portfolio: [https://portfolio-fariz.vercel.app/](https://portfolio-fariz.vercel.app/)
 
 - 📫 Reach me on:
-  - Instagram: [@efjelenden_](https://www.instagram.com/efjelenden_)
-  - TikTok: [@efjelenden_](https://www.tiktok.com/@efjelenden_)
-  - Facebook: [efjelenden_](https://www.facebook.com/share/1C2qXW3a9K/)
+  - Instagram: [@efglendem_](https://www.instagram.com/efglendem_)
+  - TikTok: [@efglendem_](https://www.tiktok.com/@efglendem_)
+  - Facebook: [efglendem_](https://www.facebook.com/share/1C2qXW3a9K/)
 
 ---
 
