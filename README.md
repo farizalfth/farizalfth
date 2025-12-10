@@ -11,7 +11,7 @@
 
 - 🎓 Informatics Engineering student at **Politeknik Harapan Bersama Tegal**
 - 🧠 Passionate about **Web Development**, **Artificial Intelligence**, and **Open Source**
-- 💻 Currently learning: `Laravel`, `Flask`, `REST API`, `CNN`, and `Decision Tree`
+- 💻 Currently learning: `Flask`, `Flutter`, `Web Design`
 - 🔭 Working on academic and real-world projects focused on smart applications
 - 🏞️ Also interested in nature, hiking, and creative content creation
 - ✍️ Motto: *"Consistency beats intensity."*
@@ -59,9 +59,7 @@
 ---
 
 ### 📌 Goals & Future Plans
-
-- 📚 Publish my own Laravel starter template  
-- 🧠 Learn advanced ML (YOLO, LSTM)  
+  
 - 🛠️ Build a SaaS product with authentication & payments  
 - 🎓 Graduate with solid real-world project portfolio
 
