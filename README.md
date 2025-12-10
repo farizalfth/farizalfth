@@ -34,18 +34,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farizalfth&show_icons=true&theme=tokyonight" alt="Fariz's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farizalfth&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizalfth&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 🌐 Contact & Social Links
 
 - 📍 **Address**: Jln. Cendana No.23, RT.05/03, Desa Jembayat, Margasari District, Tegal, Central Java  
