@@ -21,7 +21,6 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
@@ -50,14 +49,7 @@
   
 - 🛠️ Build a SaaS product with authentication & payments  
 - 🎓 Graduate with solid real-world project portfolio
-
----
-
-### 💬 Favorite Quote
-
-> *"Success is the sum of small efforts repeated day in and day out."*  
-> — Robert Collier
-
+  
 ---
 
 <p align="center">
