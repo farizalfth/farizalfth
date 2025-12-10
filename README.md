@@ -2,7 +2,7 @@
 <h3 align="center">Informatics Engineering Student | Politeknik Harapan Bersama Tegal</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Web+Developer+%7C+Laravel+Enthusiast;Python+%7C+Flask+%7C+AI+Lover;Informatics+Student+from+Tegal,+Indonesia&center=true&width=500&height=30&color=00C4FF&pause=1000&size=20" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Web+Developer;Python;Flask;Informatics+Student+from+Tegal,+Indonesia&center=true&width=500&height=30&color=00C4FF&pause=1000&size=20" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ### 🧑‍🎓 About Me
 
 - 🎓 Informatics Engineering student at **Politeknik Harapan Bersama Tegal**
-- 🧠 Passionate about **Web Development**, **Artificial Intelligence**, and **Open Source**
+- 🧠 Passionate about **Web Development**, **Open Source**
 - 💻 Currently learning: `Flask`, `Flutter`, `Web Design`
 - 🔭 Working on academic and real-world projects focused on smart applications
 - 🏞️ Also interested in nature, hiking, and creative content creation
