@@ -9,7 +9,7 @@
 
 ### 🧑‍🎓 About Me
 
-- 🎓 Informatics Engineering student at **Politeknik Harapan Bersama Tegal**
+- 🎓 Informatics Engineering student at **Universitas Harkat Negeri**
 - 🧠 Passionate about **Web Development**, **Open Source**
 - 💻 Currently learning: `Flask`, `Flutter`, `Web Design`
 - 🔭 Working on academic and real-world projects focused on smart applications
