@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Fariz Alfattah</h1>
-<h3 align="center">Informatics Engineering Student | Politeknik Harapan Bersama Tegal</h3>
+<h3 align="center">Informatics Engineering Student | Universitas Harkat Negeri</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Web+Developer;Python;Flask;Informatics+Student+from+Tegal,+Indonesia&center=true&width=500&height=30&color=00C4FF&pause=1000&size=20" />
