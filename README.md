@@ -6,11 +6,13 @@
 <h3 align="center">Informatics Engineering Student | Universitas Harkat Negeri</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Fariz;Web+Developer;Python+and+Flask;Informatics+Student" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Fariz;Web+Developer;Python+and+Flask;Mobile+Developer;Informatics+Student" />
 </p>
 
 <p align="center">
-  <img src="https://portofolio-fariz.vercel.app/" alt="Views" />
+  <a href="https://portofolio-fariz.vercel.app/">
+    <img src="https://komarev.com/ghpvc/?username=farizalfth&label=PORTFOLIO+VIEWS&color=00C4FF&style=flat-square" alt="Views" />
+  </a>
 </p>
 
 ---
@@ -23,7 +25,7 @@
       <ul>
         <li>🎓 <b>Informatics Engineering Student</b></li>
         <li>💻 Focus on <b>Web Development & AI</b></li>
-        <li>🚀 Currently learning: <b>Flask, Flutter, Cloud Computing</b></li>
+        <li>🚀 Currently learning: <b>Flask & Flutter</b></li>
       </ul>
     </td>
     <td width="50%">
@@ -54,10 +56,10 @@
   <img src="https://skillicons.dev/icons?i=python,flask,php,mysql,firebase&theme=dark" />
   <br><br>
 
-  <!-- Tools & Design -->
-  <img src="https://img.shields.io/badge/Tools-Git%2C%20VScode%2C%20Figma-00C4FF?style=for-the-badge" />
+  <!-- Mobile & Tools -->
+  <img src="https://img.shields.io/badge/Mobile+&+Tools-Flutter%2C%20Android+Studio-00C4FF?style=for-the-badge" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,git,github,vscode,postman,linux&theme=dark" />
 
 </div>
 
@@ -75,7 +77,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farizalfth&theme=tokyo-night&hide_border=true&color=00C4FF" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farizalfth&theme=tokyo-night&hide_border=true&color=00C4FF" width="850"/>
 </p>
 
 ---
