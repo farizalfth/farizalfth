@@ -3,7 +3,7 @@
 <h3 align="center">Informatics Engineering Student | Universitas Harkat Negeri</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hi+👋,+I'm+Muhammad+Fariz+Alfattah;Web+Developer;Python;Flask;Informatics+Student+from+Tegal,+Indonesia&center=true&width=600&height=45&color=00C4FF&pause=1000&size=25" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Fariz;Web+Developer;Python+and+Flask;Informatics+Student" />
 </p>
 
 ---
@@ -46,6 +46,7 @@
 ### 🐍 Snake Contribution Animation
 
 <p align="center">
+  <!-- Link ini akan bekerja SETELAH kamu menjalankan Actions di Langkah 2 -->
   <img src="https://raw.githubusercontent.com/farizalfth/farizalfth/output/github-contribution-grid-snake.svg"/>
 </p>
 
