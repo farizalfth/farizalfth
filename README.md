@@ -12,7 +12,7 @@
 
 - 🎓 Informatics Engineering Student  
 - 💻 Focus on **Web Development & AI**  
-- 🚀 Currently learning: `Flask`, `Flutter`  
+- 🚀 Currently learning: `Flask`, `Flutter`, `Web developer`
 - 🏞️ Love hiking & nature exploration  
 - ✍️ *"Consistency beats intensity."*
 
