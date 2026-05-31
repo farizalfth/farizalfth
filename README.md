@@ -1,58 +1,89 @@
-<h1 align="center">Hi, I'm Muhammad Fariz Alfattah</h1>
-<h3 align="center">Informatics Engineering Student | Universitas Harkat Negeri</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Hi+👋,+I'm+Muhammad+Fariz+Alfattah;Web+Developer;Python+Enthusiast;Flask+Developer;Informatics+Student+from+Tegal&center=true&width=600&height=45&color=00C4FF&size=25" />
+</h1>
+
+<h3 align="center">🚀 Informatics Engineering Student | Universitas Harkat Negeri</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Web+Developer;Python;Flask;Informatics+Student+from+Tegal,+Indonesia&center=true&width=500&height=30&color=00C4FF&pause=1000&size=20" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 </p>
 
 ---
 
 ### 🧑‍🎓 About Me
 
-- 🎓 Informatics Engineering student at **Universitas Harkat Negeri**
-- 🧠 Passionate about **Web Development**, **Open Source**
-- 💻 Currently learning: `Flask`, `Flutter`, `Web Developer`
-- 🔭 Working on academic and real-world projects focused on smart applications
-- 🏞️ Also interested in nature, hiking, and creative content creation
-- ✍️ Motto: *"Consistency beats intensity."*
+- 🎓 Informatics Engineering Student  
+- 💻 Focus on **Web Development & AI**  
+- 🚀 Currently learning: `Flask`, `Flutter`  
+- 🏞️ Love hiking & nature exploration  
+- ✍️ *"Consistency beats intensity."*
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,flask,mysql,html,css,js,github&theme=dark" />
 </p>
 
 ---
 
-### 🌐 Contact & Social Links
+### 📊 GitHub Stats
 
-- 📍 **Address**: Jln. Cendana No.35, RT.05/03, Desa Jembayat, Margasari District, Tegal, Central Java  
-- 🕒 **Timezone**: UTC +07:00  
-- 🌐 **Portfolio**: [portfolio-fariz.vercel.app](https://portofolio-fariz.vercel.app/)
-- 💬 **WhatsApp**: [Hub Me](https://wa.me/6283177995040)
-- 📸 **Instagram**: [alrxxz_](https://www.instagram.com/alrxxz_?igsh=MW84MDU4c3ZpeGVvcQ%3D%3D&utm_source=qr)
-- 📘 **Facebook**: [Ef Glendem](https://www.facebook.com/share/1CjwaRatmW/?mibextid=wwXIfr)
-- 🎵 **TikTok**: [faris.alfattah12](https://www.tiktok.com/@faris.alfattah12)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farizalfth&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farizalfth&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
-### 📌 Goals & Future Plans
-  
-- 🛠️ Build a SaaS product with authentication & payments  
-- 🎓 Graduate with solid real-world project portfolio
-  
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farizalfth&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+### 🐍 Snake Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/farizalfth/farizalfth/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+### 🌐 Contact & Social
+
+<p align="center">
+  <a href="https://portofolio-fariz.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C4FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/6283177995040">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/alrxxz_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/share/1CjwaRatmW">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@faris.alfattah12">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🎯 Goals
+
+- 🚀 Build SaaS product (auth + payment)  
+- 🎓 Graduate with strong portfolio  
+- 🌍 Contribute to open source  
+
 ---
 
 <p align="center">
-  Thank you for visiting my GitHub profile! 🌟  
-  Feel free to reach out or ⭐ one of my repositories 🙌  
+  ⭐ Thanks for visiting my profile!  
+  🚀 Let's build something amazing!
 </p>
