@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farizalfth&label=Profile%20Views&color=00C4FF&style=flat" alt="Views" />
+  <img src="https://portofolio-fariz.vercel.app/" alt="Views" />
 </p>
 
 ---
