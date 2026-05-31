@@ -67,10 +67,6 @@
 ### 📊 GitHub Analysis
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farizalfth&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C4FF" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farizalfth&theme=tokyonight&hide_border=true&stroke=00C4FF&ring=00C4FF&fire=00C4FF" height="180"/>
 </p>
 
