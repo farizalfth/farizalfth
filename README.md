@@ -1,12 +1,9 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand+Gestures/Waving+Hand.png" width="40" /> 
-  Hi, I'm Muhammad Fariz Alfattah
-</h1>
+<h1 align="center">👋 Hi, I'm Muhammad Fariz Alfattah</h1>
 
 <h3 align="center">Informatics Engineering Student | Universitas Harkat Negeri</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Fariz;Web+Developer;Python+and+Flask;Mobile+Developer;Informatics+Student" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Fariz;Web+Developer;Python+and+Flask;Mobile+Developer;Informatics+Student" />
 </p>
 
 <p align="center">
@@ -45,19 +42,21 @@
 <div align="center">
   
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Frontend-HTML5%2C%20CSS3%2C%20JS-00C4FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-000?style=for-the-badge&logo=html5&logoColor=00C4FF" />
+  <img src="https://img.shields.io/badge/UI_UX-000?style=for-the-badge&logo=tailwindcss&logoColor=00C4FF" />
   <br>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&theme=dark" />
   <br><br>
 
-  <!-- Backend & Database -->
-  <img src="https://img.shields.io/badge/Backend-Python%2C%20PHP%2C%20Flask-00C4FF?style=for-the-badge" />
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Backend-000?style=for-the-badge&logo=python&logoColor=00C4FF" />
+  <img src="https://img.shields.io/badge/Database-000?style=for-the-badge&logo=mysql&logoColor=00C4FF" />
   <br>
   <img src="https://skillicons.dev/icons?i=python,flask,php,mysql,firebase&theme=dark" />
   <br><br>
 
   <!-- Mobile & Tools -->
-  <img src="https://img.shields.io/badge/Mobile+&+Tools-Flutter%2C%20Android+Studio-00C4FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile_Tools-000?style=for-the-badge&logo=flutter&logoColor=00C4FF" />
   <br>
   <img src="https://skillicons.dev/icons?i=flutter,androidstudio,git,github,vscode,postman,linux&theme=dark" />
 
@@ -68,12 +67,11 @@
 ### 📊 GitHub Analysis
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizalfth&layout=compact&theme=tokyonight&hide_border=true&title_color=00C4FF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=farizalfth&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C4FF" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=farizalfth&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C4FF" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farizalfth&theme=tokyonight&hide_border=true&stroke=00C4FF&ring=00C4FF&fire=00C4FF" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farizalfth&theme=tokyonight&hide_border=true&stroke=00C4FF&ring=00C4FF&fire=00C4FF" height="180"/>
 </p>
 
 <p align="center">
@@ -103,10 +101,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
 <p align="center">
   ⭐ Thanks for visiting! Let's build something amazing together! 🚀
