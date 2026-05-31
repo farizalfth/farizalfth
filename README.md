@@ -1,11 +1,9 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hi+👋,+I'm+Muhammad+Fariz+Alfattah;Web+Developer;Python+Enthusiast;Flask+Developer;Informatics+Student+from+Tegal&center=true&width=600&height=45&color=00C4FF&size=25" />
-</h1>
+<h1 align="center">Hi, I'm Muhammad Fariz Alfattah</h1>
 
-<h3 align="center">🚀 Informatics Engineering Student | Universitas Harkat Negeri</h3>
+<h3 align="center">Informatics Engineering Student | Universitas Harkat Negeri</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+  <img src="https://readme-typing-svg.demolab.com?lines=Hi+👋,+I'm+Muhammad+Fariz+Alfattah;Web+Developer;Python;Flask;Informatics+Student+from+Tegal,+Indonesia&center=true&width=600&height=45&color=00C4FF&pause=1000&size=25" />
 </p>
 
 ---
