@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Muhammad Fariz Alfattah</h1>
+<h1 align="center">Hi, I'm Muhammad Fariz Alfattah</h1>
 
 <h3 align="center">Informatics Engineering Student | Universitas Harkat Negeri</h3>
 
