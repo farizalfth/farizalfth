@@ -2,6 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
+    # Berjalan setiap 12 jam
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
@@ -10,13 +11,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Snake 3D Animation
+        uses: Platane/snk@v3
         with:
           github_user_name: farizalfth
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            # Versi Isometric (3D) yang jauh lebih keren
+            # Palette github-dark dengan warna snake menyesuaikan brand biru muda kamu (#00C4FF)
+            dist/github-contribution-grid-snake.svg?variant=isometric&palette=github-dark&color_snake=#00C4FF&color_dots=#161b22,#00445d,#006d8a,#00a2cc,#00C4FF
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
