@@ -18,36 +18,40 @@
 
 ---
 
-### 🛠️ Tech Stack
-
+### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,flask,mysql,html,css,js,github&theme=dark" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=farizalfth&theme=tokyonight&no-frame=true&margin-w=15" alt="farizalfth" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farizalfth&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farizalfth&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://skillicons.dev/icons?i=php,python,flask,mysql,html,css,js,github,git,vscode,figma&theme=dark" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### 📊 Language & GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizalfth&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farizalfth&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farizalfth&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=farizalfth&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-### 🐍 Snake Contribution Animation
-
-<p align="center">
-  <!-- Link ini akan bekerja SETELAH kamu menjalankan Actions di Langkah 2 -->
-  <img src="https://raw.githubusercontent.com/farizalfth/farizalfth/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
