@@ -11,7 +11,7 @@
 
 - 🎓 Informatics Engineering student at **Universitas Harkat Negeri**
 - 🧠 Passionate about **Web Development**, **Open Source**
-- 💻 Currently learning: `Flask`, `Flutter`, `Web Design`
+- 💻 Currently learning: `Flask`, `Flutter`, `Web Developer`
 - 🔭 Working on academic and real-world projects focused on smart applications
 - 🏞️ Also interested in nature, hiking, and creative content creation
 - ✍️ Motto: *"Consistency beats intensity."*
@@ -38,10 +38,10 @@
 - 📍 **Address**: Jln. Cendana No.23, RT.05/03, Desa Jembayat, Margasari District, Tegal, Central Java  
 - 🕒 **Timezone**: UTC +07:00  
 - 🌐 **Portfolio**: [portfolio-fariz.vercel.app](https://portofolio-fariz.vercel.app/)
-- 💬 **WhatsApp**: [Hub Me](https://wa.me/qr/BOHYG25JPESDH1)
-- 📸 **Instagram**: [efglendem_](https://www.instagram.com/efglendem_?igsh=YmxpNzVlcGh5anJp)
-- 📘 **Facebook**: [Ef Glendem](https://www.facebook.com/share/1C2qXW3a9K/)
-- 🎵 **TikTok**: [efglendem_](https://www.tiktok.com/@efglendem_?_t=ZS-8vzX6TkIUaX&_r=1)
+- 💬 **WhatsApp**: [Hub Me](https://wa.me/6283177995040)
+- 📸 **Instagram**: [alrxxz_](https://www.instagram.com/alrxxz_?igsh=MW84MDU4c3ZpeGVvcQ%3D%3D&utm_source=qr)
+- 📘 **Facebook**: [Ef Glendem](https://www.facebook.com/share/1CjwaRatmW/?mibextid=wwXIfr)
+- 🎵 **TikTok**: [faris.alfattah12](https://www.tiktok.com/@faris.alfattah12)
 
 ---
 
