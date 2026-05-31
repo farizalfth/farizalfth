@@ -14,26 +14,19 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <ul>
-        <li>🎓 <b>Informatics Engineering Student</b></li>
-        <li>💻 Focus on <b>Web Development & AI</b></li>
-        <li>🚀 Currently learning: <b>Flask & Flutter</b></li>
-      </ul>
-    </td>
-    <td width="50%">
-      <ul>
-        <li>🏞️ Love hiking & nature exploration</li>
-        <li>✍️ <i>"Consistency beats intensity."</i></li>
-        <li>🇮🇩 Based in Tegal, Indonesia</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+> 👨‍🎓 **Student:** Informatics Engineering at Universitas Harkat Negeri.
+> 
+> 🛠️ **Focus:** Passionate about **Web Development** & **Artificial Intelligence**.
+> 
+> 🎯 **Currently Learning:** Mastering **Flask** for Backend & **Flutter** for Mobile.
+> 
+> 🏔️ **Hobbies:** Nature explorer and mountain hiking enthusiast.
+> 
+> 📍 **Location:** Based in Tegal, Indonesia.
+> 
+> 💡 *"Consistency beats intensity."*
 
 ---
 
