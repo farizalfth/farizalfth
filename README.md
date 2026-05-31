@@ -35,7 +35,7 @@
 
 ### 🌐 Contact & Social Links
 
-- 📍 **Address**: Jln. Cendana No.23, RT.05/03, Desa Jembayat, Margasari District, Tegal, Central Java  
+- 📍 **Address**: Jln. Cendana No.35, RT.05/03, Desa Jembayat, Margasari District, Tegal, Central Java  
 - 🕒 **Timezone**: UTC +07:00  
 - 🌐 **Portfolio**: [portfolio-fariz.vercel.app](https://portofolio-fariz.vercel.app/)
 - 💬 **WhatsApp**: [Hub Me](https://wa.me/6283177995040)
