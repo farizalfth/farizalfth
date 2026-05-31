@@ -16,17 +16,17 @@
 
 ### 👨‍💻 About Me
 
-> 👨‍🎓 **Student:** Informatics Engineering at Universitas Harkat Negeri.
+ 👨‍🎓 **Student:** Informatics Engineering at Universitas Harkat Negeri.
 > 
-> 🛠️ **Focus:** Passionate about **Web Development** & **Artificial Intelligence**.
+ 🛠️ **Focus:** Passionate about **Web Development** & **Artificial Intelligence**.
 > 
-> 🎯 **Currently Learning:** Mastering **Flask** for Backend & **Flutter** for Mobile.
+ 🎯 **Currently Learning:** Mastering **Flask** for Backend & **Flutter** for Mobile.
 > 
-> 🏔️ **Hobbies:** Nature explorer and mountain hiking enthusiast.
+ 🏔️ **Hobbies:** Nature explorer and mountain hiking enthusiast.
 > 
-> 📍 **Location:** Based in Tegal, Indonesia.
+ 📍 **Location:** Based in Tegal, Indonesia.
 > 
-> 💡 *"Consistency beats intensity."*
+ 💡 *"Consistency beats intensity."*
 
 ---
 
