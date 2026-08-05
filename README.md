@@ -34,74 +34,32 @@
 </p>
 
 <div align="center">
-
-  <p>
-    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#00C4FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
-      <g>
-        <path d="M22 10L12 5 2 10l10 5 10-5z"/>
-        <path d="M6 12v5c0 1.66 2.69 3 6 3s6-1.34 6-3v-5" opacity="0.6"/>
-        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -3; 0 0" dur="2.4s" repeatCount="indefinite"/>
-      </g>
-    </svg>
-    <b>&nbsp;Student:</b>&nbsp; Informatics Engineering at Universitas Harkat Negeri
-  </p>
-
-  <p>
-    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#00C4FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
-      <g>
-        <path d="M16 18l6-6-6-6"/>
-        <path d="M8 6l-6 6 6 6" opacity="0.6"/>
-        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -3; 0 0" dur="2.8s" repeatCount="indefinite"/>
-      </g>
-    </svg>
-    <b>&nbsp;Focus:</b>&nbsp; Passionate about <b>Web Development</b> & <b>Artificial Intelligence</b>
-  </p>
-
-  <p>
-    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#00C4FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
-      <g>
-        <path d="M10 2v7.31L4.65 19.94A2 2 0 0 0 6.44 23h11.12a2 2 0 0 0 1.79-3.06L14 9.31V2"/>
-        <path d="M8.5 2h7" opacity="0.6"/>
-        <path d="M7 16h10" opacity="0.6"/>
-        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -3; 0 0" dur="3.2s" repeatCount="indefinite"/>
-      </g>
-    </svg>
-    <b>&nbsp;Currently Learning:</b>&nbsp; Mastering <b>Flask</b> for Backend & <b>Flutter</b> for Mobile
-  </p>
-
-  <p>
-    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#00C4FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
-      <g>
-        <path d="M8 3l4 8 5-5 5 15H2L8 3z"/>
-        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -3; 0 0" dur="2.6s" repeatCount="indefinite"/>
-      </g>
-    </svg>
-    <b>&nbsp;Hobbies:</b>&nbsp; Nature explorer and mountain hiking enthusiast
-  </p>
-
-  <p>
-    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#00C4FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
-      <g>
-        <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/>
-        <circle cx="12" cy="10" r="3" opacity="0.6"/>
-        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -3; 0 0" dur="3.0s" repeatCount="indefinite"/>
-      </g>
-    </svg>
-    <b>&nbsp;Location:</b>&nbsp; Based in Tegal, Indonesia
-  </p>
-
-  <p>
-    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#00C4FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
-      <g>
-        <path d="M9 18h6" opacity="0.6"/>
-        <path d="M10 22h4" opacity="0.6"/>
-        <path d="M12 2a7 7 0 0 0-4 12.7c.6.5 1 1.4 1 2.3h6c0-.9.4-1.8 1-2.3A7 7 0 0 0 12 2z"/>
-        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -3; 0 0" dur="2.2s" repeatCount="indefinite"/>
-      </g>
-    </svg>
-    <b>&nbsp;Motto:</b>&nbsp; <i>"Consistency beats intensity."</i>
-  </p>
-
+  <table>
+    <tr>
+      <td width="60" align="center"><b>🎓</b></td>
+      <td><b>Student:</b> Informatics Engineering at Universitas Harkat Negeri</td>
+    </tr>
+    <tr>
+      <td width="60" align="center"><b>💻</b></td>
+      <td><b>Focus:</b> Passionate about <b>Web Development</b> & <b>Artificial Intelligence</b></td>
+    </tr>
+    <tr>
+      <td width="60" align="center"><b>⚗️</b></td>
+      <td><b>Currently Learning:</b> Mastering <b>Flask</b> for Backend & <b>Flutter</b> for Mobile</td>
+    </tr>
+    <tr>
+      <td width="60" align="center"><b>🏔️</b></td>
+      <td><b>Hobbies:</b> Nature explorer and mountain hiking enthusiast</td>
+    </tr>
+    <tr>
+      <td width="60" align="center"><b>📍</b></td>
+      <td><b>Location:</b> Based in Tegal, Indonesia</td>
+    </tr>
+    <tr>
+      <td width="60" align="center"><b>💡</b></td>
+      <td><b>Motto:</b> <i>"Consistency beats intensity."</i></td>
+    </tr>
+  </table>
 </div>
 
 ---
