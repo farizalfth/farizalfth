@@ -29,10 +29,6 @@
 
 ### 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=00C4FF&center=true&vCenter=true&width=600&height=45&lines=%F0%9F%92%BB+Web+Development;%F0%9F%A4%96+Artificial+Intelligence;%F0%9F%90%8D+Python+%26+Flask;%F0%9F%93%B1+Flutter+Mobile;%F0%9F%8E%AF+Consistency+beats+intensity" />
-</p>
-
 <div align="center">
   <table>
     <tr>
