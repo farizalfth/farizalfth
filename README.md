@@ -19,7 +19,7 @@
 
 ---
 
-### 🏆 GitHub Trophy
+<h3 align="center">🏆 GitHub Trophy</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=farizalfth&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
@@ -27,7 +27,7 @@
 
 ---
 
-### 👨‍💻 About Me
+<h3 align="center">👨‍💻 About Me</h3>
 
 <div align="center">
   <table>
@@ -60,7 +60,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
 
@@ -87,7 +87,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=farizalfth&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
@@ -104,7 +104,7 @@
 
 ---
 
-### 🌐 Let's Connect!
+<h3 align="center">🌐 Let's Connect!</h3>
 
 <p align="center">
   <a href="https://portofolio-fariz.vercel.app/">
