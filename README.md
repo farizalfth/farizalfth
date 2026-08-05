@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,50:0077A8&height=150&section=header&text=Fariz%20Alfattah&fontSize=45&fontColor=FFFFFF&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,50:0077A8&height=150&section=header&text=Muhammad%20Fariz%20Alfattah&fontSize=34&fontColor=FFFFFF&animation=twinkling" />
 </p>
 
 <h1 align="center">
@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=9CA3AF&center=true&vCenter=true&width=450&height=40&lines=Informatics+Engineering+Student;Universitas+Harkat+Negri;Let's+build+something+amazing!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=9CA3AF&center=true&vCenter=true&width=450&height=40&lines=Informatics+Engineering+Student;Universitas+Harkat+Negeri;Let's+build+something+amazing!" />
 </h3>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ### 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farizalfth&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=farizalfth&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -34,12 +34,76 @@
   <img src="https://raw.githubusercontent.com/farizalfth/farizalfth/output/github-contribution-grid-snake.svg" width="850" alt="Snake Animation" />
 </p>
 
-- 🎓 **Student:** Informatics Engineering at Universitas Harkat Negri
-- 🛠️ **Focus:** Passionate about **Web Development** & **Artificial Intelligence**
-- 🎯 **Currently Learning:** Mastering **Flask** for Backend & **Flutter** for Mobile
-- 🏔️ **Hobbies:** Nature explorer and mountain hiking enthusiast
-- 📍 **Location:** Based in Tegal, Indonesia
-- 💡 **Motto:** *"Consistency beats intensity."*
+<div align="center">
+
+  <p>
+    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#00C4FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
+      <g>
+        <path d="M22 10L12 5 2 10l10 5 10-5z"/>
+        <path d="M6 12v5c0 1.66 2.69 3 6 3s6-1.34 6-3v-5" opacity="0.6"/>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -3; 0 0" dur="2.4s" repeatCount="indefinite"/>
+      </g>
+    </svg>
+    <b>&nbsp;Student:</b>&nbsp; Informatics Engineering at Universitas Harkat Negeri
+  </p>
+
+  <p>
+    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#00C4FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
+      <g>
+        <path d="M16 18l6-6-6-6"/>
+        <path d="M8 6l-6 6 6 6" opacity="0.6"/>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -3; 0 0" dur="2.8s" repeatCount="indefinite"/>
+      </g>
+    </svg>
+    <b>&nbsp;Focus:</b>&nbsp; Passionate about <b>Web Development</b> & <b>Artificial Intelligence</b>
+  </p>
+
+  <p>
+    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#00C4FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
+      <g>
+        <path d="M10 2v7.31L4.65 19.94A2 2 0 0 0 6.44 23h11.12a2 2 0 0 0 1.79-3.06L14 9.31V2"/>
+        <path d="M8.5 2h7" opacity="0.6"/>
+        <path d="M7 16h10" opacity="0.6"/>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -3; 0 0" dur="3.2s" repeatCount="indefinite"/>
+      </g>
+    </svg>
+    <b>&nbsp;Currently Learning:</b>&nbsp; Mastering <b>Flask</b> for Backend & <b>Flutter</b> for Mobile
+  </p>
+
+  <p>
+    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#00C4FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
+      <g>
+        <path d="M8 3l4 8 5-5 5 15H2L8 3z"/>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -3; 0 0" dur="2.6s" repeatCount="indefinite"/>
+      </g>
+    </svg>
+    <b>&nbsp;Hobbies:</b>&nbsp; Nature explorer and mountain hiking enthusiast
+  </p>
+
+  <p>
+    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#00C4FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
+      <g>
+        <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/>
+        <circle cx="12" cy="10" r="3" opacity="0.6"/>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -3; 0 0" dur="3.0s" repeatCount="indefinite"/>
+      </g>
+    </svg>
+    <b>&nbsp;Location:</b>&nbsp; Based in Tegal, Indonesia
+  </p>
+
+  <p>
+    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#00C4FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
+      <g>
+        <path d="M9 18h6" opacity="0.6"/>
+        <path d="M10 22h4" opacity="0.6"/>
+        <path d="M12 2a7 7 0 0 0-4 12.7c.6.5 1 1.4 1 2.3h6c0-.9.4-1.8 1-2.3A7 7 0 0 0 12 2z"/>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -3; 0 0" dur="2.2s" repeatCount="indefinite"/>
+      </g>
+    </svg>
+    <b>&nbsp;Motto:</b>&nbsp; <i>"Consistency beats intensity."</i>
+  </p>
+
+</div>
 
 ---
 
@@ -73,12 +137,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farizalfth&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizalfth&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api?username=farizalfth&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=farizalfth&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farizalfth&theme=tokyonight&hide_border=true&stroke=00C4FF&ring=00C4FF&fire=00C4FF&currStreakLabel=00C4FF&sideNums=00C4FF" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=farizalfth&theme=tokyonight&hide_border=true&stroke=00C4FF&ring=00C4FF&fire=00C4FF&currStreakLabel=00C4FF&sideNums=00C4FF" height="180" />
 </p>
 
 <p align="center">
