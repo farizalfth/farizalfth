@@ -3,13 +3,12 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00C4FF&center=true&vCenter=true&width=700&height=60&lines=👋+Hi%2C+I'm+Muhammad+Fariz+Alfattah;🚀+Web+Developer;🐍+Python+%26+Flask;📱+Mobile+Developer;🎓+Informatics+Engineering+Student" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00C4FF&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Muhammad+Fariz+Alfattah;%F0%9F%9A%80+Web+Developer;%F0%9F%90%8D+Python+%26+Flask;%F0%9F%93%B1+Mobile+Developer;%F0%9F%8E%93+Informatics+Engineering+Student" />
 </h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=9CA3AF&center=true&vCenter=true&width=450&height=40&lines=Informatics+Engineering+Student;Universitas+Harkat+Negeri;Let's+build+something+amazing!" />
 </h3>
-
 <p align="center">
   <a href="https://portofolio-fariz.vercel.app/">
     <img src="https://komarev.com/ghpvc/?username=farizalfth&label=PORTFOLIO+VIEWS&color=00C4FF&style=flat-square" />
